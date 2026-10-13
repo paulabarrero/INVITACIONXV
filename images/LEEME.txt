@@ -1,0 +1,23 @@
+PON AQUÍ TUS IMÁGENES
+
+Descarga imágenes que tengas derecho a usar y guárdalas en esta carpeta con estos nombres exactos:
+
+1. portada-cisnes.jpg
+   Imagen vertical para la portada: lago de acuarela, árboles y dos cisnes. Ideal 4:5 o 3:4, mínimo 900 px de ancho.
+
+2. orquideas-marco.png
+   Marco o ramas de orquídeas rosa con hojas verdes para enmarcar la invitación de los padres. PNG transparente, vertical u horizontal.
+
+3. sello-dorado.png
+   Sello floral dorado para la dedicatoria. PNG cuadrado con fondo transparente.
+
+4. tiara-dorada.png
+   Tiara dorada para la sección de fecha. PNG horizontal con fondo transparente.
+
+5. pareja-vestuario.png
+   Ilustración de vestuario formal para la sección de código de vestimenta. PNG vertical con fondo transparente.
+
+6. princesa-vestido.png
+   Ilustración de una quinceañera de espaldas con vestido de gala para la mesa de regalos. PNG vertical con fondo transparente.
+
+Usa exactamente la extensión indicada. Si la imagen que descargas es JPG pero el nombre pedido termina en .png, no basta con cambiarle el nombre: guárdala o conviértela realmente a PNG, o dime la extensión real y ajusto el código.
